@@ -55,28 +55,48 @@ app.listen(port, (err) => {
 });
 
 
-// Nodejs API set up project in backend
-// let API_key = "8e758d24da87dd1966614c336918ee03"
-// let secret_key = "ba1000db46ad7d616d3786035d2a7c51"
-//let access_token with password= "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"
-// url https://${8e758d24da87dd1966614c336918ee03}:${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}@eeelena.myshopify.com/admin/api/2024-04/products.json
-// https://8e758d24da87dd1966614c336918ee03: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@eeelena.myshopify.com/admin/api/2024-04/products.json
-// app_version="2024-04"
-// https://8e758d24da87dd1966614c336918ee03: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@eelena.myshopify.com/admin/api/2024-04/products.json
 
-// https://565e79af1dcbe9321dec9f2186e546e1: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@everly-cosmetics.myshopify.com/admin/api/2024-04/products.json
 
-// Retrieve a list of list of particular collection in that case best collection
-// https://8e758d24da87dd1966614c336918ee03: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@eelena.myshopify.com/admin/api/2024-04/collections/431146205429/products.json
 
-// retrieve a  single luist list of collection
-// https://8e758d24da87dd1966614c336918ee03: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@eelena.myshopify.com/admin/api/2024-04/collections/431146205429.json
-// SHOPIFY_PRODUCT_URL =https://8e758d24da87dd1966614c336918ee03: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@eelena.myshopify.com/admin/api/2024-04/products.json
-// SHOPIFY_COLLECTION_URL =https://8e758d24da87dd1966614c336918ee03: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@eelena.myshopify.com/admin/api/2024-04/smart_collections.json
 
-// get productURl :http://localhost:3000/getproduct
-// getCollectionUrl:http://localhost:3000/getcollection
-// getCollectionProductURl: http://localhost:3000/getcollection/431146369269
 
-// balance.json:https://8e758d24da87dd1966614c336918ee03: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@eelena.myshopify.com/admin/api/2024-04/shopify_payments/balance.json
-// cart API Refrence:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
